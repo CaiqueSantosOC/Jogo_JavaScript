@@ -1,2 +1,2 @@
 # Jogo_JavaScript
- Jogo simples do Naruto, desenvolvido em JavaScript mais conceitos e funções HTML  e CSS
+Bem-vindo ao meu repositório! Aqui você encontrará o projeto do "Jogo do Naruto", uma divertida aplicação desenvolvida em JavaScript com conceitos e funcionalidades em HTML e CSS. Explore este jogo simples inspirado no universo Naruto, onde conceitos de programação se encontram com a cultura pop. Sinta-se à vontade para jogar, experimentar o código e contribuir com sugestões ou melhorias. Espero que este projeto traga tanto entusiasmo e diversão quanto tive desenvolvendo-o!
